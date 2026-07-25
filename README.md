@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🚀 Jornada na IA Generativa - DIO
 
-## 🚀 Introdução
+Relato dos principais aprendizados e práticas realizadas sobre **Fundamentos da IA Generativa**.
 
-> Woooow! Look at this 👀
+---
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🛠️ Tecnologias
+Ferramentas exploradas:
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+- 🎨 **Imagens**: Bing, Leonardo, MidJourney  
+- 🗣️ **Voz e Avatares**: ElevenLabs, D-ID, HeyGen  
 
-### Objetivos
+---
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## ⚙️ Criação
+Exemplos práticos realizados:
 
-### Template
+- Bing → 4 pessoas tentando descobrir como ganhar na loteria  
+- Leonardo → Praia ao pôr do sol com águas cristalinas e pássaros voando  
+- D-ID → Foto com texto transformado em fala por avatar  
+- HeyGen → Avatar criado via upload de imagem e texto para fala  
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+---
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📊 Resultados
+- As versões gratuitas mostraram o potencial criativo das ferramentas.  
+- Campo vasto para inovação, mas que deve ser usado com responsabilidade.  
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+---
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 💡 Reflexão
+- O avanço das **IAs Generativas** é impressionante e exige atenção.  
+- Durante o treinamento, percebi que imagens e até professores eram avatares.  
+- ⚠️ É essencial regulamentar e formar profissionais para garantir segurança.  
+- A tecnologia já mostra casos da **vida imitando a arte**.  
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
