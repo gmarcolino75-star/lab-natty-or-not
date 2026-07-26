@@ -28,6 +28,17 @@ Exemplos práticos realizados:
 
 ---
 
+## 📂 Exemplos
+Os trabalhos realizados neste estudo estão anexados e podem ser acessados pelos links abaixo:
+
+- 🔗 [Exemplo Bing](./exemplos/bing.jpg)  
+- 🔗 [Exemplo Leonardo](./exemplos/leonardo.png)  
+- 🔗 [Exemplo D-ID](./exemplos/D-ID_Dog.mp4)
+- 🔗 [Exemplo D-ID](./exemplos/D-ID_Gerson.mp4)  
+- 🔗 [Exemplo HeyGen](./exemplos/HeyGen_Jimin.mp4)  
+
+---
+
 ## 💡 Reflexão
 - O avanço das **IAs Generativas** é impressionante e exige atenção.  
 - Durante o treinamento, percebi que imagens e até professores eram avatares.  
