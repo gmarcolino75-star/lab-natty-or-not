@@ -33,9 +33,10 @@ Os trabalhos realizados neste estudo estão anexados e podem ser acessados pelos
 
 - 🔗 [Exemplo Bing](./exemplos/bing.jpg)  
 - 🔗 [Exemplo Leonardo](./exemplos/leonardo.png)  
-- 🔗 [Exemplo D-ID](./exemplos/D-ID_Dog.mp4)
-- 🔗 [Exemplo D-ID](./exemplos/D-ID_Gerson.mp4)  
-- 🔗 [Exemplo HeyGen](./exemplos/HeyGen_Jimin.mp4)  
+- 🎥 [Exemplo D-ID (vídeo)](./exemplos/D-ID_Gerson.mp4)
+- 🎥 [Exemplo D-ID (vídeo)](./exemplos/HeyGen_Jimin.mp4)
+- 🎥 [Exemplo HeyGen (vídeo)](./exemplos/D-ID_Dog.mp4)
+ 
 
 ---
 
